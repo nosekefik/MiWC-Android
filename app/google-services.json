@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "796434755503",
+    "firebase_url": "https://miwcapp-1510421347845.firebaseio.com",
+    "project_id": "miwcapp-1510421347845",
+    "storage_bucket": "miwcapp-1510421347845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796434755503:android:8a3200a5b0b145ed",
+        "android_client_info": {
+          "package_name": "com.miwcapp.miwc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796434755503-e90suk8btkr7tg9rn8uh4p37i9o49bfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miwcapp.miwc",
+            "certificate_hash": "4cc73e316b3fd94581de1c92f443a74351aa47fe"
+          }
+        },
+        {
+          "client_id": "796434755503-h1t9tmljpf3ca41havdrei9hp316o53p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVCMRtxLcTacloIsnwAKm3HFfFkXmnQK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796434755503-h1t9tmljpf3ca41havdrei9hp316o53p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
